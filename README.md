@@ -1,6 +1,6 @@
 # Betwwn-Lands
-Hello this is a muti-person project where we try to devlope a game in pygame 
-,THIS WILL BE DEVLOPED IN PYGAME 
+Hello this is a muti-person project where we devlope a game in Unity
+,THIS WILL BE DEVLOPED IN C#
 
 Game Break Down: The player has just come back from his adventure and now has arrived home only to find his whole village destroyed. Now it's your job to avenge your village but as you go through your journey you discover secrets about your village that you never knew.
 
